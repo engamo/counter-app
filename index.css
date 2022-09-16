@@ -4,12 +4,16 @@ body {
     font-family: 'Noto Sans Mono', monospace;
     font-weight: bold;
     text-align: center;
+    height: 100vh;
 }
 .container {
-    height: 2vh;
     margin-left: auto;
     margin-right: auto;
     max-width: 400px;
+    background: white;
+    max-width: 80%;
+    border: 3px solid black;
+    border-radius: 10px;
 }
 
 h1 {
@@ -24,6 +28,7 @@ h2 {
 }
 
 button {
+    border: 1px solid black;
     border: none;
     padding-top: 10px;
     padding-bottom: 10px;
