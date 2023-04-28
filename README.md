@@ -4,16 +4,14 @@
 ##Major Functions
 #The Counter App has the following major functions:
 
-#Create counters: Users can create multiple counters with custom names and starting values.
+#Create counters: Users can create counters and save the number counted.
 
-#Increment or decrement counters: Users can increment or decrement the value of a counter with a single tap.
+#Increment counters: Users can increment the value of a counter with a single tap.
 
-#Reset counters: Users can reset the value of a counter to its initial value.
-
-#Delete counters: Users can delete a counter that is no longer needed.
+#Reset counters: Users can reset the value of a counter to its initial value by clicking on the save button. 
 
 #View history: Users can view a history of all the changes made to a counter.
 
-#The Counter App is built using HTML, CSS and JAVASCRIPT and uses the following dependencies:
+#The Counter App was built using HTML, CSS and JAVASCRIPT.
 
 #The counter app was deployed using vercel https://counter-app-engamo.vercel.app/  
