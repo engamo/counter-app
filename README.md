@@ -1,14 +1,19 @@
-# co3e24d7099fd13d2af22e4c3
+# Counter App
+#The Counter App is a simple application designed to help users keep track of any kind of numerical data. The app allows users to create counters and increment or decrement them with a single tap. It is perfect for tracking simple metrics like number of steps taken, cups of coffee drank, or anything else that requires a simple numerical count.
 
-## About Scrimba
+##Major Functions
+#The Counter App has the following major functions:
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+#Create counters: Users can create multiple counters with custom names and starting values.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+#Increment or decrement counters: Users can increment or decrement the value of a counter with a single tap.
 
-Happy Coding!
-# counter-app
+#Reset counters: Users can reset the value of a counter to its initial value.
+
+#Delete counters: Users can delete a counter that is no longer needed.
+
+#View history: Users can view a history of all the changes made to a counter.
+
+#The Counter App is built using HTML, CSS and JAVASCRIPT and uses the following dependencies:
+
+#The counter app was deployed using vercel https://counter-app-engamo.vercel.app/  
